@@ -1,0 +1,172 @@
+ <!--____________________________ADORNOS_________________________________-->
+          <!--__________ADORNO 1 __________-->
+          <div class=" card border-danger mb-3 card p-4">
+            <div class="row">
+            <!-- cart images div -->
+            <div class="card" style="width: 9rem;" id="imagenesR">
+              <img class="img-fluid w-100"
+              src="assets/img/adorno1.jpg" alt="" height="20px">
+           </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>AJF001</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Colgante de velas</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-3 text-muted text-uppercase small">Solo Uno</p>
+      <p class="mb-3 text-muted text-uppercase small">Acero Inoxidable</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+   <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/adorno1.jpg','Adorno AJF001','20.00 US$')"> </a>
+    </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">20.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+
+            <!--__________ADORNO 2 __________-->
+          <div class=" card border-danger mb-3 card p-4">
+            <div class="row">
+            <!-- cart images div -->
+            <div class="card" style="width: 9rem;" id="imagenesR">
+              <img class="img-fluid w-100"
+              src="assets/img/adorno2.jpg" alt="puerta1" height="20px">
+            </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>AJF002</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Colgante de velas</p>
+      <p class="mb-3 text-muted text-uppercase small">Forma de Pez</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-3 text-muted text-uppercase small">Solo Uno</p>
+      <p class="mb-3 text-muted text-uppercase small">Acero Inoxidable</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+   <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/adorno2.jpg','Adorno AJF002','25.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">25.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+
+
+            <!--__________ADORNO 3 __________-->
+          <div class=" card border-danger mb-3 card p-4">
+            <div class="row">
+            <!-- cart images div -->
+            <div class="card" style="width: 9rem;" id="imagenesR">
+              <img class="img-fluid w-100"
+              src="assets/img/adorno3.jpg" alt="puerta1" height="20px">
+           </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>AJF003</h6>
+    <!--Descripcion del producto-->
+     <p class="mb-3 text-muted text-uppercase small">Colgante de velas</p>
+      <p class="mb-3 text-muted text-uppercase small">Forma: Seme Arco</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-3 text-muted text-uppercase small">Solo Uno</p>
+      <p class="mb-3 text-muted text-uppercase small">Acero Inoxidable</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+  <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/adorno3.jpg','Adorno AJF003','15.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">15.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+
+            <!--__________ADORNO 4 __________-->
+          <div class=" card border-danger mb-3 card p-4">
+            <div class="row">
+            <!-- cart images div -->
+            <div class="card" style="width: 9rem;" id="imagenesR">
+              <img class="img-fluid w-100"
+              src="assets/img/adorno4.jpg" alt="puerta1" height="20px">
+            </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>AJF004</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Lampara Colgante</p>
+      <p class="mb-3 text-muted text-uppercase small">Platina de 2/4</p>
+      <p class="mb-2 text-muted text-uppercase small">Vidrio</p>
+
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+   <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/adorno4.jpg','Adorno AJF004','20.00 US$')"> </a>
+ </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">20.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+ <hr>
+          

@@ -1,0 +1,164 @@
+
+          <!--____________________________VENTANAS_________________________________-->
+          <!--__________VENTANA 1 __________-->
+          <div class=" card border-danger mb-3 card p-4">
+            <div class="row">
+            <!-- cart images div -->
+            <div class="card" style="width: 9rem;" id="imagenesR">
+              <img class="img-fluid w-100"
+              src="assets/img/ventana1.jpg" alt="puerta1" height="20px">
+            </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>VMC041</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Ventana rejilla</p>
+      <p class="mb-3 text-muted text-uppercase small">Platina cuadrada de 1/4 </p>
+      <p class="mb-2 text-muted text-uppercase small">Color blanco</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+    <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="30px"  onclick="agregar('assets/img/ventana1.jpg','Ventana VMC041','30.00 US$')"> </a>
+   </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">30.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+
+            <!--__________VENTANA 2 __________-->
+          <div class=" card border-danger mb-3 card p-4" >
+            <div class="row">
+            <!-- cart images div -->
+            <div class="card" style="width: 9rem;" id="imagenesR">
+              <img class="img-fluid w-100"
+              src="assets/img/ventana2.jpg" alt="puerta1" height="20px">
+            </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>VMC042</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Ventana rejilla</p>
+      <p class="mb-3 text-muted text-uppercase small">Platina cuadrada de 1/4 </p>
+      <p class="mb-2 text-muted text-uppercase small">Color Plomo </p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+  <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/ventana2.jpg','Ventana VMC042','35.00 US$')"> </a>
+   </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">35.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+
+            <!--__________VENTANA 3 __________-->
+          <div class=" card border-danger mb-3 card p-4">
+            <div class="row">
+            <!-- cart images div -->
+            <div class="card" style="width: 9rem;" id="imagenesR">
+              <img class="img-fluid w-100"
+              src="assets/img/ventana3.jpg" alt="puerta1" height="20px">
+            </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>VMC043</h6>
+    <!--Descripcion del producto-->
+     <p class="mb-3 text-muted text-uppercase small">Ventana rejilla</p>
+      <p class="mb-3 text-muted text-uppercase small">Platina redonda 2/4 </p>
+      <p class="mb-2 text-muted text-uppercase small">Color Plomo </p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+ <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/ventana3.jpg','Ventana VMC043','45.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">45.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+
+            <!--__________VENTANA 4 __________-->
+          <div class=" card border-danger mb-3 card p-4" >
+            <div class="row">
+            <!-- cart images div -->
+            <div class="card" style="width: 9rem;" id="imagenesR">
+              <img class="img-fluid w-100"
+              src="assets/img/ventana4.jpg" alt="puerta1" height="20px">
+            </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>VMC044</h6>
+    <!--Descripcion del producto-->
+     <p class="mb-3 text-muted text-uppercase small">Ventana rejilla</p>
+      <p class="mb-3 text-muted text-uppercase small">Platina cuadrada 2/4 </p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro </p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+   <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/ventana4.jpg','Ventana VMC044','30.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">30.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>

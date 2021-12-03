@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="es">  
+<head>    
+    <title>TIENDA ONLINE - BIS METAL</title>    
+    <meta charset="UTF-8">
+    <meta name="title" content="pagina inicial de venta">
+    <meta name="description" content="se realizara una tenda por medio de carrito"> 
+    <!-- Compiled and minified Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+    <!-- Minified JS library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Compiled and minified Bootstrap JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" ></script>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" integrity="sha512-PgQMlq+nqFLV4ylk1gwUOgm6CtIIXkKwaIHp/PAIWHzig/lKZSEGKEysh0TCVbHJXCLN7WetD8TFecIky75ZfQ==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="assets/css/estilos.css">
+    <!--Favicon-->
+    <link rel="shortcur icon" href="assets/img/favicon.png">
+    <link href="style.css" rel="stylesheet">
+     
+</head>
+<section>  
+<body>
+  <!-- Encabezado -->
+   <div class="container.fluid">
+    <header id="header" class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            
+          </div>
+          <div class="col order-5">
+            
+          </div>
+          <div class="col order-1">
+          </div>
+        </div>
+      </div>
+
+<!-- SLIDER -->
+<section> 
+  <div class="container p-10">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+          </ol>
+
+    <!-- Envoltura para diapositivas -->
+    <div class="container">
+     <div class="carousel-inner">
+         <div class="item active">
+             <img src="assets/img/slider1.PNG" alt="slider1">
+             <div class="carousel-caption">
+         </div>
+       </div>
+     <!-- Imagenes del slider -->
+        <div class="item">
+            <img src="assets/img/slider2.PNG" alt="slider2">
+            <div class="carousel-caption">
+            </div>
+        </div>
+        
+        <div class="item">
+            <img src="assets/img/slider3.PNG" alt="slider3">
+            <div class="carousel-caption">
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> 
+    <!-- Controles -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Anter</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+
+<!-- titulo de la primera parte -->
+<div class="bg-dark alert px-4 text-black bg-opacity-100">
+<body class="skin-light">
+    <!-- Navbar -->
+    <div class="jumbotron color-grey-light mt-70">
+      <div class="d-flex align-items-center h-100">
+        <div class="container text-center py-5">
+          <h1  style="text-align: center" class="text-danger" >Bis Metal</h1>
+             <div style="text-align: center" class=" border-top border-danger w-2 mx-auto my-2"></div>
+            <p class="lead">¡Bienvenido a nuestra primera tienda online! </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  </header>
+  <!--Main Navigation-->
+  <div class="bg-dark alert px-4 text-black bg-opacity-25">
+</body>
+<!-- divicion de paantalla -->
+<!-- 2lineas -->
+<div class="row row-cols-md-2 row-cols-md-2 g-2">
+  <div class="col">
+  <!-- Selecccion del produto -->
+  <div class="card p-4">
+    <select id="catalogo" class="from-select" aria-lebel="default ejemplo seleccionado"> 
+      <option selected>               categorias de su producto          </option>
+      <option value="1"> Puertas </option>
+      <option value="2"> Portones </option>
+      <option value="3"> Ventanas </option>
+      <option value="4"> Pasamanos </option>
+      <option value="5"> Adornos </option>
+    </select>
+  <h2 style="text-align: center" class="py-4 font-weight-bold">PRODUCTOS DISPONIBLES</h2>
+  <hr>
+
+<div id="cargando-contenido">  
+
+</div>      
+</div>
+</div>
+
+  
+<!--DERECHA-->
+  <!-- right side div -->
+  <div class="col-md-12 col-lg-4 col-11 mx-auto mt-lg-0 mt-md-5">
+  <div class="right_side p-3 shadow bg-white">
+    <h2 style="text-align: center" class="py-4 font-weight-bold">AGREGAR A CARRITO</h2>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <p><i>Praducto</i></p>
+      </div>
+      <div class="col order-5">
+        <p><i>Precio</i> </p>
+      </div>
+      <div class="col order-1">
+        <p><i>Descripción/Código</i></p>
+      </div>
+    </div>
+  </div>
+  <!---Agrehar a carrito: -->
+  <div id="Agregar_carrito">  
+   
+  </div> 
+  
+  
+
+  <hr />
+ 
+  <button class="btn btn-primary text-uppercase">COMPRAR</button>
+  
+  
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+<!--pie de pagina  -->
+<footer>
+    <div class="container.fluid">
+      <div class="row text-center text-white">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <h3>CONTÁCTANOS</h3>
+            <P>CELULAR: +593 96 363 783</P>
+            <P>TELÉFONO: (02) 3001053</P>
+          </div>
+          <div class="col">
+            <h3>REDES SOCIALES</h3>
+            <ul>
+              <a href="https://www.facebook.com/Bis-Metal-1605187449694856/"target="_blank"><img src="assets/img/fb-icon.png" height="40px" /></a> 
+              <a href="https://www.instagram.com/bis_metal/?hl=es"target="_blank"><img src="assets/img/inst-icon.png" height="40px" /></a>  
+              <a href="https://api.whatsapp.com/send/?phone=+593988132129&text&app_absent=0"target="_blank"><img src="assets/img/what-icon.png" height="40px" /></a> 
+              <a href="https://www.google.com/maps/dir//Antonio+Jose+de+Sucre+Y+S46+(2)+Quito/@-0.3132054,-78.558324,16z/data=!4m8!4m7!1m0!1m5!1m1!1s0x91d5a22242a7fa29:0xbd8ccf53a9a04346!2m2!1d-78.558324!2d-0.3132054"target="_blank"><img src="assets/img/maps-icon.png" height="40px" /></a> 
+            </ul> 
+          </div>
+          <div class="col">
+            <h3>SERVICIOS</h3>
+            <ol> <p>Mantenimientos</p></ol>
+            <ol><p>Reparación de infraestructura</p>
+            <o><p>Implementacion de motores</p></ol>
+            <ol><p>Servicio Técnico</p></ol>
+          </div>
+        </div>
+      </div>
+
+      <div class="col ml-auto">
+        <p>Desarrollado por Nathaly Basantes &copy; 2021</p>
+        </div>
+</div>
+    </div>
+      </div>
+    </div> 
+  </div>   
+  
+  </footer>
+
+</body>
+<!--Cargar script.j de su libreria-->
+<script type="text/javascript" src="assets/js/script.js"></script>
+
+</html>
+
+
+   

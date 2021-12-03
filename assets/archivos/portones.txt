@@ -1,0 +1,211 @@
+<!--____________________________PORTONES_________________________________-->
+        <!--__________PORÓN 1 __________-->
+        <div class=" card border-danger mb-3 card p-4">
+          <div class="row">
+          <!-- cart images div -->
+          <div class="card" style="width: 9rem;" id="imagenesR">
+            <img class="img-fluid w-100"
+            src="assets/img/porton1.jpg" alt="puerta1" height="20px">
+          </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>WSQ012</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Portón de Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-2 text-muted text-uppercase small">Tipo "L" </p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+   <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/porton1.jpg','Potón WSQ012','180.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">180.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+
+          <!--__________PORÓN 2 __________-->
+        <div class=" card border-danger mb-3 card p-4">
+          <div class="row">
+          <!-- cart images div -->
+          <div class="card" style="width: 9rem;" id="imagenesR">
+            <img class="img-fluid w-100"
+            src="assets/img/porton2.jpg" alt="puerta1" height="20px">
+          </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>WSQ013</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Potón de Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-2 text-muted text-uppercase small">Tipo rejilla - simple</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+    <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/porton2.jpg','Potón WSQ013','150.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">150.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+
+          <!--__________PORÓN 3 __________-->
+        <div class=" card border-danger mb-3 card p-4">
+          <div class="row">
+          <!-- cart images div -->
+          <div class="card" style="width: 9rem;" id="imagenesR">
+            <img class="img-fluid w-100"
+            src="assets/img/porton3.jpg" alt="puerta1" height="20px">
+          </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>WSQ014</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Potón de Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-3 text-muted text-uppercase small">NNuevo Diseño</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+    <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/porton3.jpg','Potón WSQ014','260.00 US$')"> </a>
+   </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">260.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+
+          <!--__________PORÓN 4 __________-->
+        <div class=" card border-danger mb-3 card p-4">
+          <div class="row">
+          <!-- cart images div -->
+          <div class="card" style="width: 9rem;"  id="imagenesR">
+            <img class="img-fluid w-100"
+            src="assets/img/porton4.PNG" alt="puerta1" height="20px">
+          </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>WSQ015</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Potón de Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Doble Hoja</p>
+      <p class="mb-2 text-muted text-uppercase small">Color cafe - Electrica</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+     <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/porton4.PNG','Potón WSQ014','260.00 US$')"> </a>
+    </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">280.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+<hr>
+
+          <!--__________PORÓN 5 __________-->
+        <div class=" card border-danger mb-3 card p-4">
+          <div class="row">
+          <!-- cart images div -->
+          <div class="card" style="width: 9rem;">
+            <img class="img-fluid w-100"
+            src="assets/img/porton5.PNG" alt="puerta1" height="20px">
+          </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>WSQ016</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Puerta con Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Color blanco</p>
+      <p class="mb-3 text-muted text-uppercase small">Una hoja - Electrica</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+   <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/porton4.PNG','Potón WSQ015','260.00 US$')"> </a>
+    </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">260.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+ <hr>

@@ -1,0 +1,245 @@
+ 
+<!---LADO IZQUIERDO-->
+    <!--__________PUERTA 1 __________-->
+  <div class=" card border-danger mb-3 card p-4">
+  <div class="row">
+  <!-- cart images div -->
+  <div class="card" style="width: 9rem;"  id="imagenesR">
+    <img class="img-fluid w-100"
+    src="assets/img/puerta1.jpg" alt="puerta1" height="20px">
+  </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>PG001</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Puerta con Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+    <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/puerta1.jpg','Puerta PG001','120.00 US$')"> </a>
+   </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">120.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr/>
+
+     <!--__________PUERTA 2 __________-->
+  <div class=" card border-danger mb-3 card p-4">
+  <div class="row">
+  <!-- cart images div -->
+  <div class="card" style="width: 9rem;" id="imagenesR">
+    <img class="img-fluid w-100"
+    src="assets/img/puerta2.jpg" alt="puerta1" height="20px">
+  </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>PG002</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Puerta con Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+   <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/puerta2.jpg','Puerta PG002','150.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">150.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <hr>
+     <!--__________PUERTA 3 __________-->
+   <div class=" card border-danger mb-3 card p-4">
+    <div class="row">
+    <!-- cart images div -->
+    <div class="card" style="width: 9rem; id="imagenesR">
+      <img class="img-fluid w-100"
+      src="assets/img/puerta3.jpg" alt="puerta1" height="20px">
+    </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>PG003</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Puerta con Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Color cafe</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    <!--Añadir a carrito -->
+    <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/puerta3.jpg','Puerta PG003','180.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">180.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+    <hr>
+
+    <!--__________PUERTA 4 __________-->
+    <div class=" card border-danger mb-3 card p-4">
+      <div class="row">
+      <!-- cart images div -->
+      <div class="card" style="width: 9rem;">
+        <img class="img-fluid w-100"
+        src="assets/img/puerta4.jpg" alt="puerta1" height="20px">
+      </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>PG004</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Puerta con Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Doble Lado</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+    <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/puerta4.jpg','Puerta PG004','250.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">250.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+ <hr>
+      <!--___________PUERTA 5___________________-->
+      <div class=" card border-danger mb-3 card p-4">
+        <div class="row">
+        <!-- cart images div -->
+        <div class="card" style="width: 9rem;">
+          <img class="img-fluid w-100"
+          src="assets/img/puerta5.PNG" alt="puerta1" height="20px">
+        </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>PG005</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Puerta con Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+    <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/puerta5.PNG','Puerta PG005','120.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">120.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+        <hr>
+
+
+        <!--___________PUERTA 6___________________-->
+        <div class=" card border-danger mb-3 card p-4">
+          <div class="row">
+          <!-- cart images div -->
+          <div class="card" style="width: 9rem;">
+            <img class="img-fluid w-100"
+            src="assets/img/puerta6.jpg" alt="puerta1" height="20px">
+          </div>
+  <!-- cart product details -->
+<div class="col-md-7 col-8 mx-auto px-4 mt-2">
+  <div class="row">
+  <div class="col-6 card-title">
+    <div>
+      <h6>PG006</h6>
+    <!--Descripcion del producto-->
+      <p class="mb-3 text-muted text-uppercase small">Puerta con Acero Inoxidable</p>
+      <p class="mb-2 text-muted text-uppercase small">Color negro</p>
+      <p class="mb-3 text-muted text-uppercase small">Tol Galvanizado</p>
+    </div>
+  </div>
+  <!-- quantity inc dec -->
+  <div class="col-md-6">
+  </div>
+  </div>
+  <!-- //remover move and price -->
+  <div class="row">
+    <!--Borrar produto -->
+    <div  class="col-9">
+    
+    <!--Añadir a carrito -->
+   <a type="button"  class="card-link-secondary small text-uppercase mr-3"> <img src="assets/img/carrito.png" height="40px"  onclick="agregar('assets/img/puerta6.jpg','Puerta PG006','270.00 US$')"> </a>
+  </div>
+  <div class="col-md-5">
+  <h3>$<span id="itemval">270.00 </span></h3>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+ <hr>
